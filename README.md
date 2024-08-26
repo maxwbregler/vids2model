@@ -1,4 +1,4 @@
-* Learning rate (0 = model doesn't learn, 1 = model forgets everything except last input, recommended)
+# Vids2 Model - Making ML Accessible
 Vids2Model is a Python3 tool to automate most of the work in making an image classification system.
 <br>Vids2Model takes two videos as input, and outputs a keras CNN model with two classifications.
 ## Installation
